@@ -1,5 +1,8 @@
 # js_colegio_vue
 
+## Youtube Video
+https://www.youtube.com/watch?v=E35gkwbZXVA
+
 ## Code Generated Paths
 
 /src/lib/estructura/alumno
